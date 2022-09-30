@@ -1,0 +1,2 @@
+# Android-Mini-Project
+The purpose of this Mini Project is to give a detailed description of our system. This System contains information about rules and regulations of sports which are needed before or during playing a game. It provides detailed information on sports as sports environment became very competitive and challenging world wide. This system helps to check rules of sports anywhere at anytime and to gain accurate knowledge which helps to crack any competitve exams related to sports.
